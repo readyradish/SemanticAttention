@@ -1,0 +1,5 @@
+--attention-level position
+--attention-level position --have-docid
+--attention-level token --have-docid
+--attention-level token --have-docid --reverse-idx
+--attention-level token --have-docid --replace-docid
